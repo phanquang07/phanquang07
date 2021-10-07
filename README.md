@@ -1,6 +1,5 @@
 ### Hi there 👋
 
 - 🔭 I’m a student IT
-- 🌱 I’m currently learning web programming
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning VueJS programming
+- 👀 I'm looking to work at a company that uses VueJS
