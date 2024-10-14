@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- Hello world!
+- I am a front-end developer with nearly a year of hands-on experience in building and developing web applications. I have practical experience working at Japanese outsourcing companies and am familiar with Agile/Scrum methodologies. I have a good understanding of technologies such as HTML5, CSS3, JavaScript, and ReactJS. I am confident in both working independently and collaborating within a team to achieve common goals. My passion for learning and continuous improvement drives me to constantly refine my skills and adapt to new challenges. I am eager to contribute my expertise and grow within a professional and dynamic environment.
